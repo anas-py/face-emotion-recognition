@@ -2,9 +2,6 @@
 
 A Python project to detect human emotions from webcam video feed using **OpenCV** for face detection and **DeepFace** for deep learning-based emotion recognition.
 
-## 📷 Demo
-![Demo Screenshot](demo.png)
-
 ## 🚀 Features
 - Detects faces in real time
 - Analyzes emotions (Happy, Sad, Angry, Neutral, etc.)
